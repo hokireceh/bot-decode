@@ -64,7 +64,8 @@ pip install requests python-telegram-bot colorama python-dotenv
 - TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
 
 
-**⚠️Catatan⚠️**
+
+## **⚠️Catatan⚠️**
 - **Ganti** `https://github.com/hokireceh/bot-decode` dengan URL repository GitHub Anda.
 - **Ganti** `your-telegram-bot-token-here` dengan token yang Anda dapatkan dari BotFather.
 - **Ganti** `ads.hokireceh@gmail.com` dengan email kontak Anda jika diperlukan.
