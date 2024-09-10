@@ -65,11 +65,5 @@ pip install requests python-telegram-bot colorama python-dotenv
 
 
 
-## **⚠️Catatan⚠️**
-- **Ganti** `https://github.com/hokireceh/bot-decode` dengan URL repository GitHub Anda.
-- **Ganti** `your-telegram-bot-token-here` dengan token yang Anda dapatkan dari BotFather.
-- **Ganti** `ads.hokireceh@gmail.com` dengan email kontak Anda jika diperlukan.
-
-
 
 
