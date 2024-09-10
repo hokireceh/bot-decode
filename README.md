@@ -1,4 +1,4 @@
-# BOT UNTUK DECODE USER DAN QUERY AGAR BISA DIGUNAKAN LANGSUNG
+# BOT UNTUK DECODE USER DAN QUERY
 
 🔗 **Buy Cheap RDP Here** : [Sign Up](https://console.idcloudhost.com/referral/1n60rk)
 
