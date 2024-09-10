@@ -16,33 +16,38 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 
 Update dan Instal Paket Dasar
 
-Buka Termux dan jalankan perintah berikut untuk memperbarui paket dan menginstal paket dasar:
+- Buka Termux dan jalankan perintah berikut untuk memperbarui paket dan menginstal paket dasar:
 ```
 pkg update && pkg upgrade
 pkg install python git
 ```
 
-Clone repository yang berisi kode bot Telegram:
+- Clone repository yang berisi kode bot Telegram:
 ```
 git clone https://github.com/hokireceh/bot-decode.git && cd bot-decode
 ```
 
-Instal semua dependensi yang diperlukan:
+- Instal semua dependensi yang diperlukan:
 ```
 pip install requests python-telegram-bot colorama
 ```
 
-Di direktori proyek, buat file .env dengan token bot Telegram Anda:
+- Di direktori proyek, buat file .env dengan token bot Telegram Anda:
 ```
 echo "TELEGRAM_BOT_TOKEN=your-telegram-bot-token-here" > .env
 ```
 
-Jalankan bot menggunakan Python:
+- Jalankan bot menggunakan Python:
 ```
 python bot.py
 ```
 
-## ⚠️ Note
+- Tambahkan ini jika ada kesalahan telegram import Update:
+```
+pip install requests python-telegram-bot colorama python-dotenv
+```
+
+## Buat Bot Di telegram
 
 1. **Buka Telegram** dan cari pengguna dengan nama **BotFather**.
 2. **Mulai chat** dengan BotFather.
@@ -57,6 +62,13 @@ python bot.py
 - Ton: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
 - Dogs: ```UQBOGHJAp7EXL5WgAw3E2wfOF7HBapd8YyQxU6wa7V1WZD6N```
 - TRON / USDT (Tron20): ```TChYgcKG6zRwz5FP9UTZrAik3xDPa12M94```
+
+
+**⚠️Catatan⚠️**
+- **Ganti** `https://github.com/hokireceh/bot-decode` dengan URL repository GitHub Anda.
+- **Ganti** `your-telegram-bot-token-here` dengan token yang Anda dapatkan dari BotFather.
+- **Ganti** `ads.hokireceh@gmail.com` dengan email kontak Anda jika diperlukan.
+
 
 
 
