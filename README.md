@@ -12,49 +12,6 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 - [I recommend you use VPS](https://console.idcloudhost.com/referral/1n60rk)
 - If you want to buy a VPS at Kaimi, please DM us
   
-## 🚀 Run File
-
-Update dan Instal Paket Dasar
-
-- Buka Termux dan jalankan perintah berikut untuk memperbarui paket dan menginstal paket dasar:
-```
-pkg update && pkg upgrade
-pkg install python git
-```
-
-- Clone repository yang berisi kode bot Telegram:
-```
-git clone https://github.com/hokireceh/bot-decode.git && cd bot-decode
-```
-
-- Instal semua dependensi yang diperlukan:
-```
-pip install requests python-telegram-bot colorama
-```
-
-- Di direktori proyek, buat file .env dengan token bot Telegram Anda:
-```
-echo "TELEGRAM_BOT_TOKEN=your-telegram-bot-token-here" > .env
-```
-
-- Jalankan bot menggunakan Python:
-```
-python bot.py
-```
-
-- Tambahkan ini jika ada kesalahan telegram import Update:
-```
-pip install requests python-telegram-bot colorama python-dotenv
-```
-
-## Buat Bot Di telegram
-
-1. **Buka Telegram** dan cari pengguna dengan nama **BotFather**.
-2. **Mulai chat** dengan BotFather.
-3. **Kirim perintah** `/newbot` untuk membuat bot baru.
-4. **Ikuti instruksi** untuk memberikan nama dan username untuk bot Anda.
-5. Setelah berhasil, BotFather akan mengirimkan token API bot Anda. **Salin token tersebut**, karena Anda akan membutuhkannya nanti.
-
 
 ## 💱 Support Me
 
