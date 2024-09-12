@@ -10,6 +10,10 @@ cd bot-decode
 ```
 pip install -r requirements.txt
 ```
+TELEGRAM BOT TOKEN 
+```
+echo "export TELEGRAM_BOT_TOKEN='000000:hokireceh'" >> ~/.bashrc
+```
 
 
 ## 📢 Telegram Group
