@@ -1,6 +1,15 @@
 # BOT UNTUK DECODE USER DAN QUERY
 
-🔗 **Buy Cheap RDP Here** : [Sign Up](https://console.idcloudhost.com/referral/1n60rk)
+**Buy Cheap RDP Here** : [Sign Up](https://console.idcloudhost.com/referral/1n60rk)
+
+## Run Termux
+```
+git clone https://github.com/hokireceh/bot-decode.git
+cd bot-decode
+```
+```
+pip install -r requirements.txt
+```
 
 
 ## 📢 Telegram Group
@@ -10,7 +19,7 @@ Join our Telegram group to stay updated and get instructions on how to use this 
 - [Garapan Airdrop - Channel](https://t.me/garapanairdrop_indonesia)
 - [Sobat Ongkang Ongkang - Group](https://t.me/ongkang_ongkang)
 - [I recommend you use VPS](https://console.idcloudhost.com/referral/1n60rk)
-- If you want to buy a VPS at Kaimi, please DM us
+- If you want to buy a VPS at me, please DM us
   
 
 ## 💱 Support Me
